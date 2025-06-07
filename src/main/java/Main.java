@@ -6,7 +6,7 @@ public class Main {
         // Przykład 1: Kalkulator
         calculator();
         
-        // Przykład 2: Pętla z liczbami
+        // Przykład 2: Pętla z liczbami %jakas zmiana
         printNumbers();
         
         // Przykład 3: Sprawdzanie liczby parzystej/nieparzystej
